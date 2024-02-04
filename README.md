@@ -9,7 +9,7 @@ The links to the .blend files:
       https://drive.google.com/file/d/1Banp7eoy7w3xCvW6V5re8ccQAqtWBNd_/view?usp=drive_link
 
 ## Modeling Contribution
-As part of this project, my primary contribution was in the 3D modeling and asset creation using Blender (in collaboration with [@RB-Younes](https://www.github.com/RB-Younes) ). We meticulously designed and crafted 3D models for various elements within the game, including buildings, structures, props, and environmental assets. Each model was carefully optimized for in-game performance while maintaining visual quality to ensure a smooth and enjoyable gaming experience.
+As part of this project, my primary contribution was in the 3D modeling and asset creation using Blender (in collaboration with [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa) ). We meticulously designed and crafted 3D models for various elements within the game, including buildings, structures, props, and environmental assets. Each model was carefully optimized for in-game performance while maintaining visual quality to ensure a smooth and enjoyable gaming experience.
 
 ## Some Exterior screenshots
 <p align="center">
